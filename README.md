@@ -1,4 +1,5 @@
 # TP_Systeme_distribu-
+<img width="664" alt="local" src="https://user-images.githubusercontent.com/130146750/230601450-45d97032-3b26-41c0-9511-c8bc6f45ad37.PNG">
 <img width="741" alt="DOT" src="https://user-images.githubusercontent.com/130146750/230592368-cde759e2-6022-46b9-b07f-b5c25e66d9f1.PNG">
 <img width="470" alt="Capture" src="https://user-images.githubusercontent.com/130146750/230599982-3f3444de-b75b-4df8-b04d-3725f6afed20.PNG">
 <img width="486" alt="getCompte" src="https://user-images.githubusercontent.com/130146750/230600188-677356b6-a8cb-4591-a194-74b75a9271ee.PNG">
